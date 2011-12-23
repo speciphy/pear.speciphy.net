@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.speciphy.net</id>
+    <updated>2011-12-23T15:32:40+09:00</updated>
+    <title>Speciphy's PEAR Channel Server Latest Releases</title>
+    <link href="http://pear.speciphy.net/feed.xml" rel="self" />
+    <author>
+        <name>http://pear.speciphy.net</name>
+    </author>
+
+
+</feed>
