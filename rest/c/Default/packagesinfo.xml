@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
+    <pi>
+        <p>
+            <n>Speciphy</n>
+            <c>pear.speciphy.net</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP</l>
+            <s>xSpec BDD Framework</s>
+            <d>xSpec BDD Framework</d>
+            <r xlink:href="/rest/r/speciphy" />
+        </p>
 
+        <a>
+            <r>
+                <v>0.1.2</v>
+                <s>beta</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.1.2</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:3:{s:4:"name";s:7:"PHPSpec";s:7:"channel";s:16:"pear.phpspec.net";s:3:"min";s:5:"1.2.2";}}}</d>
+        </deps>
+
+    </pi>
 </f>

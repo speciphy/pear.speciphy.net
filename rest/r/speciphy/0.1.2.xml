@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/speciphy">Speciphy</p>
+    <c>pear.speciphy.net</c>
+    <v>0.1.2</v>
+    <st>beta</st>
+    <l>PHP</l>
+    <m></m>
+    <s>xSpec BDD Framework</s>
+    <d>xSpec BDD Framework</d>
+    <da>2011-12-25 07:09:59</da>
+    <n>
+-
+ </n>
+    <f>7055</f>
+    <g>http://pear.speciphy.net/get/Speciphy-0.1.2</g>
+    <x xlink:href="package.0.1.2.xml"/>
+</r>

@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.speciphy.net</id>
-    <updated>2011-12-23T15:32:40+09:00</updated>
+    <updated>2011-12-25T16:13:51+09:00</updated>
     <title>Speciphy's PEAR Channel Server Latest Releases</title>
     <link href="http://pear.speciphy.net/feed.xml" rel="self" />
     <author>
         <name>http://pear.speciphy.net</name>
     </author>
 
-
+    <entry>
+        <title>Speciphy 0.1.2 (beta)</title>
+        <link href="http://pear.speciphy.net/get/Speciphy-0.1.2.tgz" />
+        <id>http://pear.speciphy.net/get/Speciphy-0.1.2.tgz</id>
+        <author>
+            <name></name>
+        </author>
+        <updated>2011-12-25T07:09:59+09:00</updated>
+        <content>
+            
+-
+ 
+        </content>
+    </entry>
 </feed>
